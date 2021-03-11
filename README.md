@@ -1,7 +1,7 @@
 # Trivial Violetos PRO
 
 Pon a prueba tu intelecto , cultura general y habilidad social y matemática a través del más selecto trivial jamás creado . Gana a tus amigos 
-y demuestra quien va a la cabeza en cuanto a coeficiente intelectual se refiere recolectando todos los VIOLETOS posibles .
+y demuestra quién va a la cabeza en cuanto a coeficiente intelectual se refiere recolectando todos los VIOLETOS posibles .
 
 
 ## Integrantes del equipo
