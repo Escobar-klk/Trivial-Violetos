@@ -12,4 +12,4 @@ Jorge Escobar Arenas , q-103-1, usuario "Escobar-klk".
 
 ## Objetivos del trabajo
 
-Conseguir 6 créditos.
+Reflejar en este cada uno de los conocimientos adquiridos, y con ello conseguir que el usuario pase un rato agradable.
